@@ -1,4 +1,4 @@
-let s:white        = [ '#F5EEE6' , 255 ]
+let s:white        = [ '#FFFFFF' , 255 ]
 let s:medium_gray         = [ '#767676' , 243 ]
 let s:lightest_gray   = [ '#E5E5E5' , 254 ]
 let s:yellow       = [ '#FED442' , 221 ]
